@@ -22,7 +22,7 @@ export default function App() {
   return (
     <>
       <div>
-        <h1>Hello worldss</h1>
+        <h1>Hello worldsss</h1>
         <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
